@@ -1,0 +1,112 @@
+body
+{
+    background-color: #c1e4de;
+}
+
+.navbar 
+{
+    background: #063061;
+}
+.nav-link,
+.navbar-brand 
+{
+    color: #a4ecf4;
+    cursor: pointer;
+}
+.nav-link 
+{
+    margin-right: 1em !important;
+}
+.nav-link:hover 
+{
+    color: #000;
+}
+.navbar-collapse {
+    justify-content: flex-end;
+}
+#Mcontainer 
+{
+	left: 50%;
+	position: absolute;
+	top: 60%;
+    bottom: -30%;
+	transform: translate(-50%, -55%);
+	text-align: center;
+}
+.container-fluid h1 
+{
+	color: #063061;
+}
+.container-fluid h3
+{
+    color: #3c91d1;
+}
+
+#Email, #Password, #Retype_Password, #FName, #LName, #Birthday, #Phone, #Street, #StreetNumber, #City, #PostalCode
+{
+    background-color: #c1e4de;
+    border-color: #063061;
+    color: #063061;
+    display: inline-block; 
+    margin-right:10px;
+}
+#Message12
+{
+    color: #063061;
+}
+#Message1, #Message3, #Message4, #Message5, #Message6, #Message7, #Message8, #Message9, #Message10, #Message11
+{
+    display:none;
+    color: rgb(202, 57, 57);
+    position: relative;
+    margin-top: 0%;
+    margin-bottom: 0%;
+}
+#Message2
+{
+    display:none;
+    color: green;
+    position: relative;
+    margin-top: 0%;
+    margin-bottom: 0%;
+}
+#Length, #Capital, #Letter, #SpecialChar, #Number
+{
+    display:none;
+    position: relative;
+    margin-top: 0%;
+    margin-bottom: 0%;
+}
+.valid 
+{
+    color: green;
+}
+.invalid 
+{
+    color: rgb(202, 57, 57);
+}
+
+.form-check-label
+{
+    color: rgb(219, 152, 70);
+}
+
+#Register
+{
+    border-color: #063061;
+    background: #063061;
+    color: #a4ecf4;
+}
+
+.page-footer
+{
+	background: #063061;
+}
+.page-footer h6
+{
+	color: #a4ecf4;
+}
+.page-footer p
+{
+	color: #a4ecf4;
+}
