@@ -1,2 +1,2 @@
 # Eshop
-University semester project 
+University Semester Project 
